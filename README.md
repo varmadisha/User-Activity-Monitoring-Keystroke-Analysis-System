@@ -1,12 +1,12 @@
 🛡 User Activity Monitoring & Keystroke Analysis System
 
-📄 Description
 
+📄 Description
 This project is a Python-based user activity monitoring system that tracks keystrokes and analyzes user behavior in real time. It captures keyboard inputs, monitors active applications,
 detects suspicious patterns, and generates logs for analysis. The system also captures screenshots and automatically sends them to Telegram for remote monitoring.
 
-🚀 Features
 
+🚀 Features
 🔴 Real-time keystroke logging
 🖥 Active application tracking
 ⚠ Suspicious keyword detection (e.g., password, OTP, bank)
