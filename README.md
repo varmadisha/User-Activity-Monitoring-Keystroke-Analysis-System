@@ -63,9 +63,12 @@ All screenshots and logs will be automatically sent to your Telegram
 
 This project is developed for educational and cybersecurity learning purposes only. Do not use it for unauthorized monitoring or unethical activities.
 
-
 👩‍💻 Author
 
 Disha Varma
 
 📧 dishavarma910@gmail.com
+
+
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/5b233754-c1f6-4349-9cd8-5318f3ea1b46" />
+
