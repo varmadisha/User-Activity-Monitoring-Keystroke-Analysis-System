@@ -29,6 +29,8 @@ detects suspicious patterns, and generates logs for analysis. The system also ca
 
 
 
+
+
 🛠 Technologies Used
 
 Python
@@ -78,6 +80,9 @@ This project is developed for educational and cybersecurity learning purposes on
 Disha Varma
 
 📧 dishavarma910@gmail.com
+
+<img width="1920" height="1080" alt="Screenshot (58)" src="https://github.com/user-attachments/assets/21eb9387-3812-462b-82e1-5ec0813ae11f" />
+
 
 
 
