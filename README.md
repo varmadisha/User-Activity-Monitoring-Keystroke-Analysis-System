@@ -10,14 +10,23 @@ detects suspicious patterns, and generates logs for analysis. The system also ca
 🚀 Features
 
 🔴 Real-time keystroke logging
+
 🖥 Active application tracking
+
 ⚠ Suspicious keyword detection (e.g., password, OTP, bank)
+
 ⚡ Fast typing behavior detection
+
 📊 Application usage statistics
+
 📸 Automatic screenshot capture
+
 📤 Screenshots & logs sent directly to Telegram
+
 📝 Log file generation and export
+
 🎨 GUI-based monitoring dashboard (Tkinter)
+
 
 
 🛠 Technologies Used
