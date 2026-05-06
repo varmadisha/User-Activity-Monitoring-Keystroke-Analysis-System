@@ -43,6 +43,7 @@ Saves activity logs locally
 ⚙ Installation
 
 git clone https://github.com/varmadisha/User-Activity-Monitoring-Keystroke-Analysis-System
+
 cd your-repo-name
 
 pip install pynput pyautogui requests pygetwindow
